@@ -1,9 +1,9 @@
 // --- Constants ---
 const VOICES = {
-  English: { Male: "Matthew", Female: "Alicia" },
-  Hindi: { Male: "Aman", Female: "Namrita" },
-  Tamil: { Male: "Murali", Female: "Iniya" },
-  Telugu: { Male: "Zion", Female: "Josie" }
+  English: { Male: "Matthew" },
+  Hindi: { Male: "Aman" },
+  Tamil: { Male: "Murali" },
+  Telugu: { Male: "Zion" }
 };
 
 const LOCALES = {
